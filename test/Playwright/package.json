@@ -1,0 +1,25 @@
+{
+  "name": "playwrite_api_aqa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7",
+    "playwright": "^1.43.1",
+    "typescript": "^5.4.5"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "axios": "^1.6.8",
+    "playwright-core": "^1.43.1",
+    "undici-types": "^5.26.5"
+  },
+  "description": ""
+}
